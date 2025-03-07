@@ -82,5 +82,5 @@ Feel free to open issues or submit pull requests to improve the project!
 
 ## Author
 
-[Your Name](https://github.com/your-username)
+[VOYAGER aka Mainak ](https://github.com/VOYAGER441)
 
